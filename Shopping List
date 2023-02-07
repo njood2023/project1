@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Shopping list</h2>
+
+<ul>
+  <li>Tomato </li>
+  <li>Bread</li>
+  <li>Milk</li>
+</ul>  
+
+</body>
+</html>
